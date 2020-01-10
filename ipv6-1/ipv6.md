@@ -6,11 +6,40 @@ description: Obligatory introductory content about IPV6
 
 ## Usual Stuff about IPV4 and IPV6
 
-|  | IPV4 | IPV6 |
-| :--- | :--- | :--- |
-| Address Length | 32 bit address | 128 bit address |
-
-|  | IPV4 | IPV6 |
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left"></th>
+      <th style="text-align:left">IPV4</th>
+      <th style="text-align:left">IPV6</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">Address Length</td>
+      <td style="text-align:left">32 bit address</td>
+      <td style="text-align:left">128 bit address</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Subnet size</td>
+      <td style="text-align:left">Variable</td>
+      <td style="text-align:left">Usually /64</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Normal Representation</td>
+      <td style="text-align:left">
+        <p>Dotted Decimal</p>
+        <p>1.2.3.4</p>
+      </td>
+      <td style="text-align:left">Other</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+  </tbody>
+</table>|  | IPV4 | IPV6 |
 | :--- | :--- | :--- |
 
 
