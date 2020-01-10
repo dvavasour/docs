@@ -2,22 +2,27 @@
 
 ## To have ready before you start
 
+* [ ] Remote desktop to system connected via IPV6
+* [ ] AWS Account
+* [ ] Login to NS1 \(my.nsone.net\)
 
+Have a look and see if the MAC address gets into the instance's IPV6 address.
 
-Becoming a super hero is a fairly straight forward process:
+Code is currently in P\Computacenter\Code
 
-```
-$ give me super-powers
-```
+[https://github.com/dvavasour/Terraform-0.12.git](https://github.com/dvavasour/Terraform-0.12.git) \(Repository link to share\)
 
-Once you're strong enough, save the world:
+After running the terraform apply, the new bits are all TF - IPV6 prefixed. There will be a blank instance.
 
-{% code title="hello.sh" %}
-```bash
-# Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
-{% endcode %}
+Login from ssh enabled host using IPV6 address
+
+`yum install -y busybox`
+
+`cat > index.html <Some message or other>       (Note the lowercase "index")`
+
+`busybox httpd -fvv`
+
+\`\`
 
 
 
