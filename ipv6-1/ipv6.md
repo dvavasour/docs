@@ -26,34 +26,6 @@ description: Obligatory introductory content about IPV6
       <td style="text-align:left">Usually /64</td>
     </tr>
     <tr>
-      <td style="text-align:left">Normal Representation</td>
-      <td style="text-align:left">
-        <p>Dotted Decimal</p>
-        <p>1.2.3.4</p>
-      </td>
-      <td style="text-align:left">Other</td>
-    </tr>
-    <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-    </tr>
-  </tbody>
-</table>|  | IPV4 | IPV6 |
-| :--- | :--- | :--- |
-
-
-| Address Length | 32 bit address | 128 bit address |
-| :--- | :--- | :--- |
-
-
-| Subnet size | Variable | Usually /64 |
-| :--- | :--- | :--- |
-
-
-<table>
-  <thead>
-    <tr>
       <th style="text-align:left">Normal representation</th>
       <th style="text-align:left">
         <p>Dotted Decimal</p>
