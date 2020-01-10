@@ -36,10 +36,6 @@ description: Obligatory introductory content about IPV6
         <p>1234:5678:9abc:def0:1234:5678:9abc:def0</p>
       </th>
     </tr>
-  </thead>
-  <tbody></tbody>
-</table><table>
-  <thead>
     <tr>
       <th style="text-align:left">Types of addresses</th>
       <th style="text-align:left">Anything should be considered routeable</th>
