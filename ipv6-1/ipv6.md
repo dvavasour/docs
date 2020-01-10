@@ -26,28 +26,45 @@ description: Obligatory introductory content about IPV6
       <td style="text-align:left">Usually /64</td>
     </tr>
     <tr>
-      <th style="text-align:left">Normal representation</th>
-      <th style="text-align:left">
+      <td style="text-align:left">Normal representation</td>
+      <td style="text-align:left">
         <p>Dotted Decimal</p>
         <p>1.2.3.4</p>
-      </th>
-      <th style="text-align:left">
+      </td>
+      <td style="text-align:left">
         <p>Hex blocks</p>
         <p>1234:5678:9abc:def0:1234:5678:9abc:def0</p>
-      </th>
+      </td>
     </tr>
     <tr>
-      <th style="text-align:left">Types of addresses</th>
-      <th style="text-align:left">Anything should be considered routeable</th>
-      <th style="text-align:left">
+      <td style="text-align:left">Types of addresses</td>
+      <td style="text-align:left">Anything should be considered routeable</td>
+      <td style="text-align:left">
         <p>Link local addresses usually start with &quot;fxxx&quot;</p>
         <p>Routeable addresses usually start with &quot;2xxx&quot;</p>
-      </th>
+      </td>
     </tr>
-  </thead>
-  <tbody></tbody>
-</table>| Loopback Address | 127.0.0.0/8 | ::1/128 |
-| :--- | :--- | :--- |
+    <tr>
+      <td style="text-align:left">Loopback Address</td>
+      <td style="text-align:left">127.0.0.0/8</td>
+      <td style="text-align:left">::1/128</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Default route</td>
+      <td style="text-align:left">0.0.0.0/0</td>
+      <td style="text-align:left">::/0</td>
+    </tr>
+  </tbody>
+</table>
+Note that IPV4 Adresses can be expressed either in dotted decimal or pure decimal notation (or even hex):  
+http://212.58.244.56   
+http://3560633400   
+http://0xD43AF438  
+
+
+
+  
+
 
 
 | Default route | 0.0.0.0/0 | ::/0 |
