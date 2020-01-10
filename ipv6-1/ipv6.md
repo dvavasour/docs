@@ -56,6 +56,7 @@ description: Obligatory introductory content about IPV6
     </tr>
   </tbody>
 </table>
+
 Note that IPV4 Adresses can be expressed either in dotted decimal or pure decimal notation (or even hex):  
 http://212.58.244.56   
 http://3560633400   
