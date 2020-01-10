@@ -41,7 +41,7 @@ description: Obligatory introductory content about IPV6
       <td style="text-align:left">Anything should be considered routeable</td>
       <td style="text-align:left">
         <p>Link local addresses usually start with &quot;fxxx&quot;</p>
-        <p>Routeable addresses usually start with &quot;2xxx&quot; or &quot;3xxx&quot;</p>
+        <p>Routeable addresses usually start with &quot;2xxx&quot;</p>
       </td>
     </tr>
     <tr>
@@ -55,8 +55,11 @@ description: Obligatory introductory content about IPV6
       <td style="text-align:left">::/0</td>
     </tr>
   </tbody>
-</table>Note that IPV4 Adresses can be expressed either in dotted decimal or pure decimal notation \(or even hex\):  
-[http://212.58.244.56](http://212.58.244.56)  
-[http://3560633400](http://3560633400)  
-[http://0xD43AF438](http://0xD43AF438)
+</table>
+
+Note that IPV4 Adresses can be expressed either in dotted decimal or pure decimal notation (or even hex):  
+http://212.58.244.56   
+http://3560633400   
+http://0xD43AF438  
+
 
