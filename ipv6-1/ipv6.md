@@ -1,8 +1,11 @@
 ---
-description: Obligatory introductory content about IPV6
+description: Obligatory introductory content about IPV6.
 ---
 
 # IPV6 Facts
+
+In 2011, Microsoft bought over 600,000 IP addresses from the liquidators of Nortel for $7.5m, so almost a decade ago each IP host address was fetching $11.  
+As of now, 25% of all traffic to Google is IPV6 [https://www.google.com/intl/en/ipv6/statistics.html](https://www.google.com/intl/en/ipv6/statistics.html)
 
 ## Usual Stuff about IPV4 and IPV6
 
