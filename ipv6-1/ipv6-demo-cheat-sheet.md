@@ -6,8 +6,6 @@
 * [ ] AWS Account
 * [ ] Login to NS1 \(my.nsone.net\)
 
-Have a look and see if the MAC address gets into the instance's IPV6 address.
-
 Code is currently in P\Computacenter\Code
 
 [https://github.com/dvavasour/Terraform-0.12.git](https://github.com/dvavasour/Terraform-0.12.git) \(Repository link to share\)
